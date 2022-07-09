@@ -1,0 +1,10 @@
+name: SurvivalForm
+main: Aless\SurvivalForm\Main
+api: 4.0.0
+version: 1.0
+author: Aless
+
+
+commands:
+  SurvivalForm:
+    description: "Abre el menu de survival"
